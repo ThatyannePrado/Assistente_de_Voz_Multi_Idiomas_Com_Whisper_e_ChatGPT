@@ -10,3 +10,5 @@ Captura-se o áudio do usuário diretamente no navegador por meio da Web API Med
 Aqui é onde será realizada a troca de textos com o ChatGPT. Utiliza-se a API da OpenAI. É enviada transcrição do whisper da etapa 2 e o retorno será a resposta do ChatGPT.
 ### 4 - Sintetizando a Resposta do ChatGPT Como Voz (gTTS) 
 Por fim, usa-se o gTTS, biblioteca em Python que utiliza a API de Text-to-Speech do Google, sintetizando o texto em voz no idioma escolhido. Assim, a resposta do ChatGPT é entrege ao usuário por meio de voz. 
+<br><br><br><br>
+> Desenvolvido no **Coding the Future**, da **DIO**.
